@@ -1,0 +1,23 @@
+
+
+.ui.card {
+    background: rgb(91, 138, 86);
+}
+
+.header{
+    text-align: center;
+    color: bisque !important;
+}
+
+
+/* Style for SingleCard */
+.author{
+    color: white !important;
+    font-size: large;
+}
+
+/* html styling */
+
+body {
+    background: rgb(3, 3, 3);
+}
